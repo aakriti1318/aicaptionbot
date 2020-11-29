@@ -1,5 +1,7 @@
 # IMAGE CAPTION BOT / PIX2STORY
 
+###### A web application based on LSTM, CNN, RNN, Keras and transfer learning. The goal of the project is generating a caption for a given photograph. This project could be the visual aid for blind people.
+
 #### Get the Dataset
 I have used flickr8k dataset that is available on kaggle. 
 https://www.kaggle.com/adityajn105/flickr8k/activity
